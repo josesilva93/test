@@ -1,0 +1,5 @@
+C:\Users\josea\source\repos\juegoPoo\juegoPoo\obj\Debug\net6.0\juegoPoo.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\juegoPoo\juegoPoo\obj\Debug\net6.0\juegoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\juegoPoo\juegoPoo\obj\Debug\net6.0\juegoPoo.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\juegoPoo\juegoPoo\obj\Debug\net6.0\juegoPoo.AssemblyInfo.cs
+C:\Users\josea\source\repos\juegoPoo\juegoPoo\obj\Debug\net6.0\juegoPoo.csproj.CoreCompileInputs.cache
